@@ -1,0 +1,69 @@
+.divColor{
+    background-color: red;
+    width: 70%;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.todoh3{
+    color: white;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#inputc{
+    width: 90%;
+    height: 15%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.saveB{
+    font-family: 'Courier New', Courier, monospace;
+    height: 19%;
+}
+
+#pvalue{
+    font-family: 'Courier New', Courier, monospace;
+    width: 70%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: brown;
+    text-align: left;
+    
+
+}
+
+.list-data {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#pvalue p{
+    /* margin-top: 10px; */
+    background-color: burlywood;
+    float: right;
+    
+}
+
+#pvalue button{
+    float: left;
+    margin-left: 10px;    
+    
+}
+
+.ptag{
+    text-decoration: solid;
+    color: antiquewhite;
+    text-align: left;
+    margin: 0;
+    background-color: bisque;
+}
